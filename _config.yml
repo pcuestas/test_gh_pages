@@ -1,3 +1,10 @@
+# Page info
+title: Title of my website
+author: Some Author
+description: This is the description of the site
+
 # Build settings
 markdown: kramdown
 theme: minima
+
+
